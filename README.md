@@ -73,9 +73,11 @@ Add the following to your `pubspec.yaml`:
 dependencies:
   flutter:
     sdk: flutter
-  google_maps_flutter: ^2.5.0
-  geolocator: ^10.1.0
-  permission_handler: ^11.3.1
+  flutter_svg: ^2.0.17
+  location: ^8.0.0
+  flutter_polyline_points: ^2.1.0
+  google_maps_flutter: ^2.12.1
+
 ```
 
 ---
